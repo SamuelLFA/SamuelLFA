@@ -12,8 +12,6 @@ Feel free to contribute and make suggestions.
 </br>
 Thank you and see you later.
 
-<img align="left" alt="Samuel Lima's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samuellfa&hide=contribs&show_icons=true&theme=gotham" />
-
 ## Technologies
 
 Some of the languages, frameworks and tools that I work with:
@@ -32,17 +30,6 @@ Some of the languages, frameworks and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-<!--
-**SamuelLFA/SamuelLFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github
+<img align="left" alt="Samuel Lima's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samuellfa&hide=contribs&show_icons=true&theme=gotham"/>
