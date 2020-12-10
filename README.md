@@ -12,7 +12,7 @@ Feel free to contribute and make suggestions.
 </br>
 Thank you and see you later.
 
-<img align="left" alt="Samuel Lima's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samuellfa&hide=contribs&show_icons=true&theme=highcontrast" />
+<img align="left" alt="Samuel Lima's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samuellfa&hide=contribs&show_icons=true&theme=gotham" />
 
 ## Technologies
 
