@@ -3,9 +3,9 @@
 ### Here you will find a lot of information about my work and myself.
 </br>
 
-I'm currently working and learning about the functional programming world. 🌎
+I'm always a programmer in progress. 🌎
 </br>
-Exilir, Node.js, TypeScript and serverless are some of the technologies which I'm learning right now. ☁️
+Java,, Node.js, TypeScript and Elixir are some of the technologies which I'm learning right now. ☁️
 
 </br>
 Feel free to contribute and make suggestions.
