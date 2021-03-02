@@ -5,7 +5,7 @@
 
 I'm always a programmer in progress. 🌎
 </br>
-Java,, Node.js, TypeScript and Elixir are some of the technologies which I'm learning right now. ☁️
+Java, Node.js, TypeScript and Elixir are some of the technologies which I'm learning right now. ☁️
 
 </br>
 Feel free to contribute and make suggestions.
@@ -16,6 +16,8 @@ Thank you and see you later.
 
 Some of the languages, frameworks and tools that I work with:
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
