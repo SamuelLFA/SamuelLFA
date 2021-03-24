@@ -1,5 +1,5 @@
-## Hi human! 🐕
-### My name is **Samuel Lima** and welcome to my Github!
+## Hi!! 🐕
+### My name is **Samuel Lima** and welcome to my repos!
 ### Here you find a lot of information about myself.
 </br>
 
