@@ -5,7 +5,7 @@
 
 I'm always a programmer in progress. 🌎
 </br>
-Java and TypeScript are some of the technologies which I'm learning right now. 👨🏻‍💻
+Java and Kotlin are some of the technologies which I'm learning right now. 👨🏻‍💻
 </br>
 Feel free to contribute and make suggestions.
 </br>
