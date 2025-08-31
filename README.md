@@ -5,7 +5,7 @@
 
 I'm always a programmer in progress. 🌎
 </br>
-JS, Java and Kotlin are some of the technologies which I'm learning right now. 👨🏻‍💻
+Go, Java and Kotlin are some of the technologies with I have domain. 👨🏻‍💻
 </br>
 Feel free to contribute and make suggestions.
 </br>
